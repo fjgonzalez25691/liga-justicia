@@ -10,3 +10,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Cambios nuevos desde GitHub
 
 ## He vuelto a hacer cambios en git hub para probar ubuntu
+
+## Ahora estos cambios son desde digital ocean
